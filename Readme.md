@@ -1,6 +1,6 @@
 <!-- ![Kaggle Logo](https://www.kaggle.com/static/images/site-logo.png) -->
 
-![Kaggle Logo](/assets/png-transparent-artificial-neural-network-deep-learning-convolutional-neural-network-machine-learning-statistical-classification-brain-miscellaneous-people-symmetry.png)
+![Kaggle Logo](/assets/file.png)
 
 # Overview
 
