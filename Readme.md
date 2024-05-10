@@ -1,6 +1,6 @@
 <!-- ![Kaggle Logo](https://www.kaggle.com/static/images/site-logo.png) -->
 
-![Kaggle Logo](/assets/file2.png)
+![Logo](/assets/file2.png)
 
 # Overview
 
